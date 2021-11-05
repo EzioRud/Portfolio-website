@@ -1,0 +1,17 @@
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\bin\Debug\netcoreapp3.1\Luvhengo_TicTacToe.exe
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\bin\Debug\netcoreapp3.1\Luvhengo_TicTacToe.deps.json
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\bin\Debug\netcoreapp3.1\Luvhengo_TicTacToe.runtimeconfig.json
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\bin\Debug\netcoreapp3.1\Luvhengo_TicTacToe.runtimeconfig.dev.json
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\bin\Debug\netcoreapp3.1\Luvhengo_TicTacToe.dll
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\bin\Debug\netcoreapp3.1\Luvhengo_TicTacToe.pdb
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.Form1.resources
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.csproj.GenerateResource.cache
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.AssemblyInfo.cs
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.dll
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.pdb
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.genruntimeconfig.cache
+C:\Users\Rudol\source\repos\Luvhengo_TicTacToe\Luvhengo_TicTacToe\obj\Debug\netcoreapp3.1\Luvhengo_TicTacToe.Properties.Resources.resources

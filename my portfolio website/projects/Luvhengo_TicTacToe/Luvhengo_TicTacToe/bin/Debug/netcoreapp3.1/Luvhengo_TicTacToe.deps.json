@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Luvhengo_TicTacToe/1.0.0": {
+        "runtime": {
+          "Luvhengo_TicTacToe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Luvhengo_TicTacToe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
